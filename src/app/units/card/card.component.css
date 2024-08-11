@@ -1,0 +1,29 @@
+
+
+.img-fluid{
+    float: right;
+    }
+   
+
+.card-title{
+color: black;
+}
+
+.card-body{
+background-color:grey;
+}
+
+.card {
+  background: #515972;
+  border-radius: 7px;
+  cursor: pointer;
+  box-shadow: #515972 0px 7px 29px 0px;
+  transition: all 0.3s ease-in-out;
+  margin-left: 5px;
+  padding: 0 0;
+  display: flex;
+  justify-content: space-between 0;
+  align-items: center;
+}
+
+

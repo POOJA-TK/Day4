@@ -1,0 +1,51 @@
+.img-fluid{
+    width: 50%;
+    background-color: aliceblue;
+    float: right;
+    }
+    .img-fluidS{
+    width: 50%;
+    background-color: aliceblue;
+    float: left;
+    }
+    .tem{
+    width: 50%;
+    background-color: aliceblue;
+    float: right;
+    }
+    .te{
+    color: navy;
+    font-family: "TIMES NEW ROMAN";
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    }
+    .start1{
+    padding-right: 200px;
+    padding-top: 195px;
+    padding-bottom: 155px;
+    padding-left: 850px;
+    background-color: aliceblue;
+    color: navy;
+    font-family: "TIMES NEW ROMAN";
+    font-size: 30px;
+    }
+    .start{
+    padding-right: 850px;
+    padding-top: 195px;
+    padding-bottom: 155px;
+    padding-left: 200px;
+    background-color: aliceblue;
+    color: navy;
+    font-family: "TIMES NEW ROMAN";
+    font-size: 30px;
+    }
+    p{
+    color: navy;
+    font-family: "TIMES NEW ROMAN";
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    }
